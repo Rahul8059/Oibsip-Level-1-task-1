@@ -1,0 +1,266 @@
+*{
+    padding: 0;
+    margin:0;
+   
+}
+
+body{
+    overflow-x: hidden;
+   
+}
+.main{
+    background-color: #808080c9;
+    color:rgb(255, 255, 255);
+}
+nav{
+    display: flex;
+    justify-content: right;
+    font-size: 1.2rem;
+    /* padding: 10px 5px 10px 30px; */
+}
+a{
+    margin:0 20px 0px 45px;
+    text-decoration: none;
+    color:black;
+    font-size: larger;
+    font-weight: bolder;
+    position: relative;
+    bottom: 17px;
+    
+}
+a:hover{
+    color:#dfd9d9e1;
+}
+.header{
+    color:black;
+    font-weight: bolder;
+    position: relative;
+    bottom:20px;
+    right:65%;
+}
+.im1{
+ height: 2.2rem;
+ width:2.2rem ;
+ position: relative;
+ top:13px;
+ left:10px;
+}
+.im2{
+    width:100%;
+    height:100%;
+    overflow: hidden;
+   
+}
+.footer{
+    color:#dfdfdff7;
+    display: flex;
+    font-size: 2rem;
+    justify-content: center;
+    position: relative;
+    top: 20%;
+    
+
+   
+}
+.btn{
+  
+    color: black;
+    border-radius: 10%;
+    padding: 10px;
+    display: flex;
+    font-size: 1.2rem;
+    font-weight: bold;
+    justify-content: center;
+    position: relative;
+    top:23%;
+    right:5%; 
+    margin:10px 0px 0 0px;
+}
+button{
+    background-color: #dfd9d9e1 ;
+    border: 1px solid;
+}
+button:hover{
+    background-color:#808080c9;
+}
+.btn1{
+    color: black;
+    padding:10px;
+    border-radius: 10%;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: bold;
+    position: relative;
+    bottom:24rem;
+    left:40rem;
+}
+.btn2{
+    color: black;
+    padding:10px;
+    border-radius: 10%;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: bold;
+    position: relative;
+    bottom:27rem;
+    left:50rem;
+}
+/* .password{
+    height:50px;
+    width:1000px;
+} */
+.hr1{
+
+        border-style: none;
+        border-top-style: dotted;
+        border-color:#808080;
+        border-width: 7px;
+        width: 5%;
+        position: relative;
+        left:48%;
+        bottom:10%;
+       
+}
+.hr2{
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color:#808080;
+    border-width: 7px;
+    width: 5%;
+    position: relative;
+    left:48%;
+    bottom:15.66rem;
+   
+}
+p{
+    font-size: 2rem;
+}
+#product{
+
+    height:550px;
+    background-color: antiquewhite;
+    text-align: center;
+    margin-bottom: 5%;
+    position:relative;
+    bottom:20%;
+  
+
+}
+.img1{
+    border-radius: 5%;
+    height:24.065rem;
+    width:20.5rem;
+    position: relative;
+    top:8%;
+    right:38%;
+}
+.i1{
+    position: relative;
+    top:12%;
+    right:39%;
+}
+
+.img2{
+    border-radius: 5%;
+    height:24.065rem;
+    width:20.5rem;
+    position: relative;
+    right:14%;
+    bottom:76%;
+}
+.i2{
+    position: relative;
+    bottom:72%;
+    right:14%; 
+}
+.img3{
+    border-radius: 5%;
+    height:24.065rem;
+    width:20.5rem;
+    position: relative;
+    left:10%;
+    bottom:54.9rem;
+}
+.i3{
+    position: relative;
+    bottom:53.5rem;
+    left:10%; 
+}
+.img4{
+    border-radius: 5%;
+    height:24.065rem;
+    width:20.5rem;
+    position: relative;
+    left:35%;
+    bottom:83.57em;
+}
+.i4{
+    position: relative;
+    bottom:82.4rem;
+    left:36%;
+ 
+}
+
+.block{
+    border-radius: 5%;
+    height:16.75rem;
+    width:46.875rem;
+    background-color: rgba(1, 15, 1, 0.272);
+    position: relative;
+    bottom:75%;
+    left:27%;
+      
+
+}
+
+.label1{
+    font-size: 40px;
+    padding:10px;
+    border-radius: 25%;
+
+    position: relative;
+    bottom:400px;
+    left:30%;
+    border: 3px solid black;
+    color:rgb(225, 157, 157);
+}
+.con{
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content: center;
+     position: relative;
+    top:3.2rem;
+   
+
+}
+.contact{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom:30rem;
+    overflow: hidden;
+    color:rgb(225, 157, 157);
+}
+.label{
+    font-size: 40px;
+    position: relative;
+    bottom:400px;
+    left:30%;
+    border-radius: 5%;
+    color:rgb(225, 157, 157);
+
+}
+#help{
+    height:800px;
+    position: relative;
+    background-color: antiquewhite;
+  
+}
+.frm1{
+    position: relative;
+    top:70%;
+
+}

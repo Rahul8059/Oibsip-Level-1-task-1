@@ -1,0 +1,13 @@
+
+        <div>
+    
+        <form class="frm" action ="index.html" method="post">
+        <h1 class="contact">Contact Us</h1>
+        <label class="label">Name</label>
+        <input type="text" name="name" value="" class="label"><br><br><br><br>
+        <label class="label">Email</label>
+        <input type="text" name="name" value="" class="label"><br><br><br><br>
+        <label class="label">Phone Number</label>
+        <input type="text" name="name" value="" class="label">
+
+       </form>
